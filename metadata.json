@@ -1,0 +1,7 @@
+{
+  "name": "애플 원본 Q-Tex - AI Business Tax Assistant",
+  "description": "A comprehensive web dashboard for business owners to track taxes, manage transactions, and use AI for expense categorization and tax-saving analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

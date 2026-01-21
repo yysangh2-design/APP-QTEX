@@ -1,2 +1,20 @@
-# APP-QTEX
-Q-TEX: AI 지능형 세무 비서 서비스 구글 Gemini AI를 활용하여 부가세/종소세를 자동으로 분류해주는 스마트 웹사이트입니다.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1NtiJ8gmLPF6ccLYkAVBkCtphT8KkW7La
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
